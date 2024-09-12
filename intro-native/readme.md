@@ -2,6 +2,7 @@
 
 **Descrição:**
 Um aplicativo móvel para exibir e vender produtos, desenvolvido com React Native.
+Criado para fixar o conteudo de como trabalhar com listas.
 
 **Tecnologias:**
 * React Native
