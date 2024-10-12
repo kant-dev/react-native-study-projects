@@ -1,6 +1,6 @@
 import { FlatList, Text, View } from "react-native";
 import { getAllProducts, getProductsByCategory } from "../../../services/products";
-import { IdStyle } from "./styles/idStyle";
+import { IdStyle } from "./idStyle";
 import { router, Stack, useLocalSearchParams } from "expo-router";
 import { getCategoriesId } from "../../../services/category";
 import ProductCard from "../../../components/Card/ProductCard";

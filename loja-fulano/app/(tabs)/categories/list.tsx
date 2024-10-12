@@ -1,7 +1,7 @@
 import { FlatList, Text, View } from "react-native";
 import ProductCard from "../../../components/Card/ProductCard";
 import { getAllProducts } from "../../../services/products";
-import { ListStyle } from "./styles/listStyle";
+import { ListStyle } from "./listStyle";
 import { getAllCategories } from "../../../services/category";
 import Banner from "../../../components/Banner/Banner";
 

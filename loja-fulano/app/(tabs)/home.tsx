@@ -1,5 +1,5 @@
 import { FlatList, Text, View } from "react-native";
-import { homeStyle } from "./styles/homeStyle";
+import { homeStyle } from "./homeStyle";
 import { getAllProducts } from "../../services/products";
 import ProductCard from "../../components/Card/ProductCard";
 

@@ -33,7 +33,7 @@ const CardProductor = () => {
                               </View>
                         </View>
                   )}
-                  keyExtractor={(item: Productor) => item.id.toString()} // Certificando que a key seja string
+                  keyExtractor={(item: Productor) => item.id.toString()} 
             />
       );
 };
